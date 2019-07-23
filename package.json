@@ -11,12 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/bmorelli25/simple-nodejs-weather-app.git"
   },
-  "author": "brandon morelli",
+  "author": "alishba imran",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bmorelli25/simple-nodejs-weather-app/issues"
   },
-  "homepage": "https://github.com/bmorelli25/simple-nodejs-weather-app#readme",
+  "homepage": ,
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
